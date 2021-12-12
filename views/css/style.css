@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://www.delonghi.com/Global/recipes/multifry/97.jpg");
+    /* Full height */
+    height: 100%;
+    width: 100%;
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.404);
+    background-blend-mode: overlay;
+}
+#container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
