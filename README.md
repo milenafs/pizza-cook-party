@@ -18,3 +18,7 @@ I tried new tools like auth0 and twillo/sendgrid
 
 ###  What we learned 🍕
 How to send emails
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/55178534e4b0c99d03d5dc1a/1551322304203-LYZV0F54V2S733X7CVV7/Pizza-Throb.gif" width="30%">
+</p>
+
